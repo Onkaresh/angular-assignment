@@ -6,7 +6,7 @@ import { ArtistItemComponent } from './component.artist-item';
 import { ArtistDetailsComponent } from './component.artist-details';
 
 import { SearchPipe } from './pipe.search';
-
+// here meta data function start
 @NgModule({
   imports: [
     BrowserModule, FormsModule
