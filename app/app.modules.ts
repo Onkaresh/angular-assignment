@@ -17,5 +17,4 @@ import { SearchPipe } from './pipe.search';
     AppComponent
   ]
 })
-
 export class AppModule {}
