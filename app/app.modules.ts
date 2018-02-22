@@ -7,6 +7,7 @@ import { ArtistDetailsComponent } from './component.artist-details';
 
 import { SearchPipe } from './pipe.search';
 
+
 @NgModule({
   imports: [
     BrowserModule, FormsModule
