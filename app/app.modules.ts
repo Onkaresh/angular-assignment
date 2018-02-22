@@ -6,6 +6,7 @@ import { ArtistItemComponent } from './component.artist-item';
 import { ArtistDetailsComponent } from './component.artist-details';
 
 import { SearchPipe } from './pipe.search';
+
 @NgModule({
   imports: [
     BrowserModule, FormsModule
@@ -17,5 +18,4 @@ import { SearchPipe } from './pipe.search';
     AppComponent
   ]
 })
-
 export class AppModule {}
