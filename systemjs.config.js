@@ -49,7 +49,6 @@
     map: map,
     packages: packages
   };
-
   System.config(config);
 
 })(this);
